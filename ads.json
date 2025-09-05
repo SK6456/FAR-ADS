@@ -1,0 +1,23 @@
+{
+  "ads": [
+    {
+      "id": 1,
+      "title": "Boost Your Fiverr Sales 🚀",
+      "image": "https://raw.githubusercontent.com/SK6456/FAR-ADS/main/ad1.png",
+      "link": "https://example.com/boost-sales"
+    },
+    {
+      "id": 2,
+      "title": "Learn Freelance Design 🎨",
+      "image": "https://raw.githubusercontent.com/SK6456/FAR-ADS/main/ad2.png",
+      "link": "https://example.com/design-course"
+    },
+    {
+      "id": 3,
+      "title": "Get Cheap API Credits 💳",
+      "image": "https://raw.githubusercontent.com/SK6456/FAR-ADS/main/ad3.png",
+      "link": "https://example.com/api-credits"
+    }
+  ],
+  "rotate": true
+}
