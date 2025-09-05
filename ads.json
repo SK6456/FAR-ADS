@@ -21,3 +21,10 @@
   ],
   "rotate": true
 }
+{
+  "ads": [
+    "https://raw.githubusercontent.com/SK6456/FAR-ADS/refs/heads/main/AD1.png",
+    "https://raw.githubusercontent.com/SK6456/FAR-ADS/refs/heads/main/AD2.png",
+    "https://raw.githubusercontent.com/SK6456/FAR-ADS/refs/heads/main/AD3.png"
+  ]
+}
