@@ -3,40 +3,33 @@
     {
       "id": 1,
       "title": "Boost Your Fiverr Sales 🚀",
-      "image": "https://raw.githubusercontent.com/SK6456/FAR-ADS/refs/heads/main/AD1.png",
+      "image": "https://raw.githubusercontent.com/SK6456/FAR-ADS/main/AD1.png",
       "link": "https://example.com/boost-sales"
     },
     {
       "id": 2,
       "title": "Learn Freelance Design 🎨",
-      "image": "https://raw.githubusercontent.com/SK6456/FAR-ADS/refs/heads/main/AD2.png",
+      "image": "https://raw.githubusercontent.com/SK6456/FAR-ADS/main/AD2.png",
       "link": "https://example.com/design-course"
     },
     {
       "id": 3,
       "title": "Get Cheap API Credits 💳",
-      "image": "https://raw.githubusercontent.com/SK6456/FAR-ADS/refs/heads/main/AD3.png",
+      "image": "https://raw.githubusercontent.com/SK6456/FAR-ADS/main/AD3.png",
       "link": "https://example.com/api-credits"
     },
- {
+    {
       "id": 4,
- "title": "Get ad4",
-      "image":  "https://raw.githubusercontent.com/SK6456/FAR-ADS/refs/heads/main/AD4.png",
-      "link": "https://example.com/Get ad4"
+      "title": "Get ad4",
+      "image": "https://raw.githubusercontent.com/SK6456/FAR-ADS/main/AD4.png",
+      "link": "https://example.com/ad4"
     },
-    "id": 5,
- "title": "Get ad5",
-      "image":  "https://raw.githubusercontent.com/SK6456/FAR-ADS/refs/heads/main/AD5.png",
-      "link": "https://example.com/Get ad5"
+    {
+      "id": 5,
+      "title": "Get ad5",
+      "image": "https://raw.githubusercontent.com/SK6456/FAR-ADS/main/AD5.png",
+      "link": "https://example.com/ad5"
+    }
   ],
   "rotate": true
-}
-{
-  "ads": [
-    "https://raw.githubusercontent.com/SK6456/FAR-ADS/refs/heads/main/AD1.png",
-    "https://raw.githubusercontent.com/SK6456/FAR-ADS/refs/heads/main/AD2.png",
-    "https://raw.githubusercontent.com/SK6456/FAR-ADS/refs/heads/main/AD3.png",
-    "https://raw.githubusercontent.com/SK6456/FAR-ADS/refs/heads/main/AD4.png",
-    "https://raw.githubusercontent.com/SK6456/FAR-ADS/refs/heads/main/AD5.png",
-  ]
 }
