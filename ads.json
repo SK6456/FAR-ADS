@@ -20,15 +20,21 @@
     },
     {
       "id": 4,
-      "title": "Get ad4",
+      "title": "Ad 4 Offer 🔥",
       "image": "https://raw.githubusercontent.com/SK6456/FAR-ADS/main/AD4.png",
       "link": "https://example.com/ad4"
     },
     {
       "id": 5,
-      "title": "Get ad5",
+      "title": "Ad 5 Deal 💼",
       "image": "https://raw.githubusercontent.com/SK6456/FAR-ADS/main/AD5.png",
       "link": "https://example.com/ad5"
+    },
+    {
+      "id": 6,
+      "title": "Translate Smarter 🌍",
+      "image": "https://raw.githubusercontent.com/SK6456/FAR-ADS/main/AD6.png",
+      "link": "https://example.com/translate"
     }
   ],
   "rotate": true
